@@ -1,2 +1,3 @@
-Hello
-[Image:pic.png]
+Hello , I am chaitanya
+[Image :picture.jpg ]
+	Idented text after tab space
